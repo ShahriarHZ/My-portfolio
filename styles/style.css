@@ -45,5 +45,31 @@ nav .menu a{
    padding: 18px 35px;
    font-size: 20px;
    font-weight: bold;
-
+}
+.banner{
+    margin: 47px 38px 0 230px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.banner .banner-content{
+    max-width: 585px;
+}
+.banner .banner-content h2{
+color: #474747;
+font-size: 45px;
+font-weight: 600px;
+margin-bottom: 5px;
+}
+.banner .banner-content h1{
+    margin-bottom: 20px;
+    font-size: 85px;
+    color: #181818;
+    font-weight: bold;
+}
+.banner .banner-content p{
+    font-size: 18px;
+    color: #757575;
+    line-height: 30px;
+    margin-bottom: 30px;
 }
