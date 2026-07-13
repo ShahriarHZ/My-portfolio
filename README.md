@@ -21,6 +21,11 @@ The portfolio application is built to maximize web performance, accessibility, a
 *   **Styling & UI Components:** Tailwind CSS paired with DaisyUI for utility-first layouts and rapid theme scaling.
 *   **Interactions & Motion:** Framer Motion for subtle, intentional layout animations and scroll transitions.
 *   **Hosting & CI/CD:** Continuous deployment configured to trigger automatically on main branch pushes via Vercel or Netlify.
+
+
+
+
+
 Live Link : portfolio-shahriar-zisan.netlify.app
 ---
 
